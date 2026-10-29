@@ -1,0 +1,32 @@
+name: Bug report
+description: Report unexpected behavior (not a security vulnerability)
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: "Do not submit security vulnerabilities here. See SECURITY.md for private reporting guidance."
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened?
+      description: Describe the observed behavior.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect?
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps to reproduce
+      description: Do not include credentials, customer data, or exploit details.
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Version or commit

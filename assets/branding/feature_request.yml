@@ -1,0 +1,21 @@
+name: Feature request
+description: Suggest a way to make security work more actionable
+title: "[Feature] "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem are you trying to solve?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed improvement
+    validations:
+      required: true
+  - type: textarea
+    id: outcome
+    attributes:
+      label: What action would this help a user take?

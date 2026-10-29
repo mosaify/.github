@@ -1,0 +1,30 @@
+### JetBrains template
+# User-specific stuff
+.idea
+# Gradle and Maven with auto-import
+*.iml
+*.ipr
+
+
+### Linux template
+*~
+# Linux trash folder which might appear on any partition or disk
+.Trash-*
+
+
+### Windows template
+# Windows thumbnail cache files
+Thumbs.db
+# Folder config file
+[Dd]esktop.ini
+# Windows shortcuts
+*.lnk
+
+
+### macOS template
+# General
+.DS_Store
+# Icon must end with two \r
+Icon
+# Thumbnails
+._*
