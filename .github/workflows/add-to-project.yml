@@ -1,0 +1,11 @@
+name:                                   Add to project
+
+on:
+  issues:
+    types:                              [opened, reopened]
+
+jobs:
+  call-workflow:
+    uses:                               mosaify/.github/.github/workflows/add-to-project-reusable.yml@main
+    secrets:
+      ADD_TO_PROJECT_PAT:               ${{ secrets.ADD_TO_PROJECT_PAT }}
