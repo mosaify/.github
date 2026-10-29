@@ -1,0 +1,6 @@
+{
+    "name": "Add to project",
+    "description": "Adds opened and reopened issues to the Mosaify \"Take Over the World!\" project",
+    "iconName": "octicon project",
+    "categories": ["Automation", "SDLC"]
+}

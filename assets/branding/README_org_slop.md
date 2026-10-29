@@ -1,8 +1,6 @@
-<p align="center">
-  <img src="./assets/mosaify-banner.svg" alt="Mosaify — See the bigger picture" width="100%" />
-</p>
+<img src="./images/mosaify-banner.svg" alt="Mosaify — See the bigger picture" width="100%" />
 
-<p align="center"><strong>See the bigger picture. Fix what matters.</strong></p>
+<p ><strong>See the bigger picture. Fix what matters.</strong></p>
 
 Software security has no shortage of findings. What teams need is clarity about what to do next.
 
@@ -27,4 +25,4 @@ Security teams have limited time, competing priorities, and enough dashboards al
 
 Explore our repositories, open an issue to suggest an improvement, or contribute where the repository welcomes contributions.
 
-For sensitive vulnerability reports, please follow the [security reporting guidance](../SECURITY.md). Do not disclose exploitable vulnerabilities in public issues.
+For sensitive vulnerability reports, please follow the [security reporting guidance](slop_SECURITY.md). Do not disclose exploitable vulnerabilities in public issues.
