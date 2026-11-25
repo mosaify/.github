@@ -4,6 +4,12 @@
 # Gradle and Maven with auto-import
 *.iml
 *.ipr
+!gradle-wrapper*
+# Kotlin
+.kotlin
+build
+kotlin-js-store
+.gradle
 
 
 ### Linux template
